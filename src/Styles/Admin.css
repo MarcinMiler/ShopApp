@@ -1,0 +1,25 @@
+
+/*Admin page*/
+
+.Nav {
+  float: left;
+}
+
+/*Items page*/
+
+.Page-wrap {
+  float: left;
+}
+
+.Title {
+  text-align: center;
+}
+
+.Product-add-input::placeholder {
+  color: gray;
+}
+
+.First-label {
+  font-weight: bold;
+  margin-top: 10px;
+}
